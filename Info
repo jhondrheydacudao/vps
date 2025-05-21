@@ -1,0 +1,56 @@
+## 🚀 ExecutorX - Free & Paid VPS Hosting with Discord Bot Panel
+
+Welcome to **ExecutorX**, your all-in-one hosting solution for developers and gamers! We offer **free** and **paid** VPS services, Discord bot hosting, website and database hosting — all integrated through a modern, user-friendly dashboard.
+
+🌐 **Dashboard**: [https://panel-executorx.duckdns.org/](https://panel-executorx.duckdns.org/)
+💬 **Join our Discord**: [Click here to join](https://discord.gg/UpsVZg5S27)
+
+---
+
+### 🔧 What You Get
+
+✅ **Free VPS** — Powered by queue-based system (first come, first served)
+💎 **Paid VPS** — Unlock higher specs, instant setup, and premium support
+🤖 **Host Discord Bots** — Uptime guaranteed, simple UI
+🌍 **Website Hosting** — Deploy HTML/CSS/JS sites in seconds
+🗃️ **MySQL Database Access** — Full control via phpMyAdmin
+🎮 **Game Server Ready** — Works great with platforms like Pterodactyl
+🛡️ **Secure Login with Discord** — Easy and safe authentication
+
+---
+
+### 📂 Features
+
+* 🚀 Discord-themed modern panel
+* ⚙️ VPS management system
+* 📥 VPS queue & approval system (admin controlled)
+* 🧑‍💻 Admin panel with user management and ban system
+* 💾 JSON & MySQL data storage
+* 🖥️ One VPS per user limit for fair usage (Free tier)
+* 🔐 Email-verified admin access
+
+---
+
+### 🛠️ Technologies Used
+
+* Node.js (Express)
+* MySQL + phpMyAdmin
+* EJS templating with CSS animations
+* Discord OAuth2 login
+* JSON file management for backup
+
+---
+
+### 👥 Join the Community
+
+Need help or want to contribute? Join our Discord server and chat with other developers:
+
+👉 [Join ExecutorX Discord](https://discord.gg/YOUR_INVITE_LINK)
+
+---
+
+### 📌 Disclaimer
+
+* Free VPS resources are limited. Abuse may result in bans.
+* Paid VPS options help us keep the free service alive!
+* This project is provided **as-is** for educational and hobby use.
